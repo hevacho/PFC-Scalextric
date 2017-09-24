@@ -1,0 +1,34 @@
+[DeviceName]
+Value=P18F452
+[DeviceClock]
+Value=4
+[MainUnit]
+Value=display.c
+[DeviceFlags]
+Count=4
+Value0=_XT_OSC_1H = $00F9
+Value1=_BOR_OFF_2L = $00FD
+Value2=_WDT_OFF_2H = $00FE
+Value3=_CP0_OFF_5L = $00FF
+[BuildType]
+bType=0
+[ProjectFiles]
+Count=1
+Value0=display.c
+[HeaderFiles]
+Count=0
+[ObjLibFiles]
+Count=0
+[PLDFiles]
+Count=0
+[EEPROMinfo]
+isused=0
+[SearchPath]
+Count=4
+Value0=C:\Archivos de programa\Mikroelektronika\mikroC\Defs\
+Value1=C:\Archivos de programa\Mikroelektronika\mikroC\Uses\p18\
+Value2=C:\Documents and Settings\bla\Escritorio\programa final\
+Value3=C:\Simulacion proteus\display\
+Value4=C:\Simulacion proteus\display\
+[IncludePath]
+Count=0
